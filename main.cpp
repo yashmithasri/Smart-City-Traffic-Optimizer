@@ -856,5 +856,5 @@ int main()
     SmartTrafficManagementSystem ob1;
     ob1.welcome();
 
-    //all rights reserved  ©rudrakaniya || CSEBaba
+  
 }
